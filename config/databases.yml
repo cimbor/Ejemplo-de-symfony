@@ -6,5 +6,5 @@ all:
     class: sfDoctrineDatabase
     param:
       dsn:      mysql:host=localhost;dbname=Jobeetejemplo
-      username: root
-      password: 
+      username: jobeet
+      password: ysitis2000
